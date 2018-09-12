@@ -17,4 +17,8 @@ STEP2: Choose the Appropriate File to Upload to Arduino
 
 3.Led_audio_cycle_bright_sens.ino - this file has audio spectrum, manual cycle and auto cycle built into it with main potentiometer(see below) plus allows you to adjust brightness and sensitivity of audio sensor with another two potentiometers
 
-4.Led_audio_cycle_bright_sens_display.ino - 
+4.Led_audio_cycle_bright_sens_display.ino - this is the same as #3 but the brightness and sensitivity is displayed on a 16x2 LED Display (requires the LiquidCrystal.h library)
+
+----------------------------------------------------------
+STEP2: Choose the Appropriate File to Upload to Arduino
+----------------------------------------------------------
