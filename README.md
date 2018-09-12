@@ -39,7 +39,15 @@ Main Potentiometer (0-10VDC)
 STEP 3: Wire the Project based on the Arduino Code Used
 ----------------------------------------------------------
 
-I have a folder called Schematics Based on the arduino sketch that you use. Open that folder and wire the components as diplayed in those schematics and you are all set
+Use the corresponding Schematics files to wire up the components in the project based on the Arduino Sketch you are using:
+
+1. Led_audio.ino = Schematic 1
+
+2. Led_audio_cycle.ino = Schematic 2
+
+3. Led_audio_cycle_bright_sens.ino = Schematic 3
+
+4. Led_audio_cycle_bright_sens_display.ino = Schematic 4
 
 ----------------------------------------------------------
 STEP 3: ENJOY
