@@ -36,5 +36,11 @@ Main Potentiometer (0-10VDC)
 9-10VDC: Auto Color Cycle (will slowly cycle through the color spectrum)
 
 ----------------------------------------------------------
-STEP 3: 
+STEP 3: Wire the Project based on the Arduino Code Used
+----------------------------------------------------------
+
+I have a folder called Schematics Based on the arduino sketch that you use. Open that folder and wire the components as diplayed in those schematics and you are all set
+
+----------------------------------------------------------
+STEP 3: ENJOY
 ----------------------------------------------------------
