@@ -1,4 +1,5 @@
 Please Read these instructions for setting up the LED-Audio_Spectrum Project
+
 ----------------------------------------------------------
 STEP 1: Download the needed Libraries
 ----------------------------------------------------------
@@ -22,6 +23,13 @@ STEP 2: Choose the Appropriate File to Upload to Arduino
 
 4. Led_audio_cycle_bright_sens_display.ino
 - this is the same as #3 but the brightness and sensitivity is displayed on a 16x2 LED Display (requires the LiquidCrystal.h library)
+
+----------------------------
+Main Potentiometer (0-10VDC)
+----------------------------
+0-1VDC: Audio Spectrum Setting
+1-9VDC: Manual Color Cycle Setting (Stays on Color you choose)
+9-10VDC: Auto Color Cycle (will slowly cycle through the color spectrum)
 
 ----------------------------------------------------------
 STEP 3: 
