@@ -28,7 +28,9 @@ STEP 2: Choose the Appropriate File to Upload to Arduino
 Main Potentiometer (0-10VDC)
 ----------------------------
 0-1VDC: Audio Spectrum Setting
+
 1-9VDC: Manual Color Cycle Setting (Stays on Color you choose)
+
 9-10VDC: Auto Color Cycle (will slowly cycle through the color spectrum)
 
 ----------------------------------------------------------
