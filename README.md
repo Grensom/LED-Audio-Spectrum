@@ -4,7 +4,9 @@ Please Read these instructions for setting up the LED-Audio_Spectrum Project
 STEP 1: Download the needed Libraries
 ----------------------------------------------------------
 You will need the following libraries:
+
 FastLED.h
+
 LiquidCrystal.h (optional)
 
 You can get these by going to Arduino IDE >> Sketch >> Include Library >> Manage Libraries >> "search for" FastLED and install library
