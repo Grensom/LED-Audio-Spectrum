@@ -50,5 +50,5 @@ Use the corresponding Schematics files to wire up the components in the project 
 4. Led_audio_cycle_bright_sens_display.ino = Schematic 4
 
 ----------------------------------------------------------
-STEP 3: ENJOY
+STEP 4: ENJOY
 ----------------------------------------------------------
