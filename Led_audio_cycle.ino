@@ -115,10 +115,10 @@ void loop() {
   }
   FastLED.show();
   delay(10);
-  for (int z = 60; z > 30; z--) {
+  for (int z = num_leds; z > (num_leds/2); z--) {
     leds[z] = leds[z - 1];
   }
-  for (int z = 0; z < 30; z++) {
+  for (int z = 0; z < (num_leds/2); z++) {
     leds[z] = leds[z + 1];
   }
 }
