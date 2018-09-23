@@ -40,7 +40,7 @@ void loop() {
   FastLED.setBrightness(brightness);
   if (y < 100) {
     if (x < 71) {
-      leds[30(num_leds/2)] = CRGB(255, 0, 0);
+      leds[(num_leds/2)] = CRGB(255, 0, 0);
     }
     else if (x > 71 && x <= 142) {
       leds[(num_leds/2)] = CRGB(255, 154, 0);
