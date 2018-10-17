@@ -67,7 +67,7 @@ void loop() {
     }
     else if (y >= 700 && y < 850) {//1st up
       c = ((y - 700) * (255 / 150));
-      leds[(num_leds/2)0] = CRGB(c, 0, 255);
+      leds[(num_leds/2)] = CRGB(c, 0, 255);
     }
     else if (y >= 850 && y < 1000) {//3rd down
       c = ((y - 1000) * (-255 / 150));
